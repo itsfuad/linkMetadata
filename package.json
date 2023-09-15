@@ -1,0 +1,26 @@
+{
+  "name": "link-metadata",
+  "version": "1.0.1",
+  "description": "Parses metadata like Title, Description and social media image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsfuad/linkMetadata.git"
+  },
+  "keywords": [
+    "link-metadata",
+    "metadata-parser",
+    "metadata",
+    "link",
+    "nodejs"
+  ],
+  "author": "Fuad Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsfuad/linkMetadata/issues"
+  },
+  "homepage": "https://github.com/itsfuad/linkMetadata#readme"
+}
