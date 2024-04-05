@@ -3,9 +3,6 @@
   "version": "1.0.2",
   "description": "Parses metadata like Title, Description and social media image",
   "main": "index.js",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@itsfuad"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
